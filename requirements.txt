@@ -1,0 +1,8 @@
+aif360[all]
+scikit-lego
+pandas
+numpy==1.23.1
+matplotlib
+scikit-learn
+xgboost
+shap
